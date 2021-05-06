@@ -46,3 +46,8 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+# Extra ignores
+[Aa]ssets/StreamingAssets/
+[Aa]ssets/Plugins/GitHub/
+[Aa]ssets/TextMesh\ Pro/
